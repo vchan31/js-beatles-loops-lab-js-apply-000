@@ -20,3 +20,4 @@ function johnLennonFacts(){
   }
   return newFacts;
 }
+
